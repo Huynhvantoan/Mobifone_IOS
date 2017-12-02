@@ -1,0 +1,6 @@
+framework module Pods_Mobi {
+  umbrella header "Pods-Mobi-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Hotline : 0902301368"; ObjectID = "4eG-89-XcM"; */
+"4eG-89-XcM.text" = "Hotline : 0902301368";
+
+/* Class = "UITextField"; placeholder = "Tên đăng nhập"; ObjectID = "CQT-1V-FLk"; */
+"CQT-1V-FLk.placeholder" = "Tên đăng nhập";
+
+/* Class = "UILabel"; text = "Đăng ký"; ObjectID = "GPu-HJ-Xqa"; */
+"GPu-HJ-Xqa.text" = "Đăng ký";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H3f-PB-VFU"; */
+"H3f-PB-VFU.text" = "Label";
+
+/* Class = "UILabel"; text = "Header"; ObjectID = "J2w-g7-4DF"; */
+"J2w-g7-4DF.text" = "Header";
+
+/* Class = "UIButton"; normalTitle = "ĐỔI MẬT KHẨU"; ObjectID = "LiV-5F-Fpq"; */
+"LiV-5F-Fpq.normalTitle" = "ĐỔI MẬT KHẨU";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Owk-TL-Y1Q"; */
+"Owk-TL-Y1Q.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Mật khẩu mới"; ObjectID = "VJA-OO-SXq"; */
+"VJA-OO-SXq.placeholder" = "Mật khẩu mới";
+
+/* Class = "UITextField"; placeholder = "Mật khẩu"; ObjectID = "cY2-Ce-rhE"; */
+"cY2-Ce-rhE.placeholder" = "Mật khẩu";
+
+/* Class = "UIButton"; normalTitle = "ĐĂNG NHẬP"; ObjectID = "cY9-eh-1MH"; */
+"cY9-eh-1MH.normalTitle" = "ĐĂNG NHẬP";
+
+/* Class = "UITextField"; placeholder = "Mật khẩu mới"; ObjectID = "dD1-bq-zNW"; */
+"dD1-bq-zNW.placeholder" = "Mật khẩu mới";
+
+/* Class = "UIButton"; normalTitle = "Quên mật khẩu"; ObjectID = "dVM-N2-ELn"; */
+"dVM-N2-ELn.normalTitle" = "Quên mật khẩu";
+
+/* Class = "UITextField"; placeholder = "Tên đăng nhập"; ObjectID = "iGq-cY-yTU"; */
+"iGq-cY-yTU.placeholder" = "Tên đăng nhập";
+
+/* Class = "UIButton"; normalTitle = "ĐĂNG NHẬP TÀI KHOẢNG KHÁCH"; ObjectID = "irG-p8-b6Z"; */
+"irG-p8-b6Z.normalTitle" = "ĐĂNG NHẬP TÀI KHOẢNG KHÁCH";
+
+/* Class = "UIButton"; normalTitle = "Đăng ký"; ObjectID = "rp0-uP-3ft"; */
+"rp0-uP-3ft.normalTitle" = "Đăng ký";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "twT-ta-aDf"; */
+"twT-ta-aDf.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "ĐĂNG KÝ"; ObjectID = "ugk-GZ-i88"; */
+"ugk-GZ-i88.normalTitle" = "ĐĂNG KÝ";

@@ -1,0 +1,47 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - ALCameraViewController (2.0.3)
+  - EZSwiftExtensions (1.11)
+  - Google-Mobile-Ads-SDK (7.24.1)
+  - MBProgressHUD (1.0.0)
+  - ObjectMapper (2.2.9)
+  - PopupDialog (0.6.0)
+  - REFrostedViewController (2.4.8)
+  - SwiftOverlays (3.0.0)
+  - Toast-Swift (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - AlamofireImage
+  - AlamofireObjectMapper (~> 4.0)
+  - ALCameraViewController (~> 2.0.3)
+  - EZSwiftExtensions
+  - Google-Mobile-Ads-SDK
+  - MBProgressHUD (~> 1.0.0)
+  - PopupDialog (~> 0.5)
+  - REFrostedViewController (~> 2.4)
+  - SwiftOverlays (~> 3.0.0)
+  - Toast-Swift (~> 2.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  ALCameraViewController: 7b86c2888df0e63f53a801e9d96fe194f51157ec
+  EZSwiftExtensions: 84000042202d9fd574f626cda3064143f27fa767
+  Google-Mobile-Ads-SDK: ed8004a7265b424568dc84f3d2bbe3ea3fff958f
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  ObjectMapper: 63cfe41bc6f8e7c8f44344c49901b8ae7de14c52
+  PopupDialog: 687af43af0f7b89948cd411ac701865f931bd6dc
+  REFrostedViewController: a893b4979ba1f200c547aef9ff4c3fd5a18f5923
+  SwiftOverlays: 4cdd9e4f5c7817fb6348882059eb697e11685fad
+  Toast-Swift: 5b2f8f720f7e78e48511f693df1f9c9a6e38a25a
+
+PODFILE CHECKSUM: c9f28cabeedb0832afb446961ba5a88408d93baa
+
+COCOAPODS: 1.4.0.beta.1

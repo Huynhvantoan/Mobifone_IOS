@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  Mobi
+
+  Created by HeoConUnIn on 10/7/17.
+  Copyright © 2017 HoangSon. All rights reserved.
+*/
+
+"M_HOME" = "Trang chủ";
+"M_STORE" = "Kho số";
+"M_PROMOTION" = "Khuyến mãi";
+"M_LIABILITIES" = "Công nợ";
+"M_PROCEDURE" = "Thủ tục";
+"M_UPLOAD_PICTURE" = "Tải ảnh";
+"M_PORFILE" = "Thông tin cá nhân";
+"M_VAS" = "Vas";
+"M_PAY_THE_BILL" = "Thanh toán cước";
+"M_CONTAST" = "Liên hệ";
+"M_LOGOUT" = "Thoát";
+"M_HELP" = "Help";
+"M_TRA_TRUOC" = "Trả Trước";
+"M_TRA_SAU_DOANH_NGHIEP" = "Trả Sau Doanh Nghiệp";
+"M_TRA_SAU" = "Trả Sau";
+"M_CAM_KET_SO_DEP" = "Cam Kết Số Đẹp";
+"M_KIEM_TRA_TINH_TRANG" = "Kiểm Tra Tình Trạng";
+"M_UPLOAD" = "Tải ảnh";
+"M_COMPANY" = "CÔNG TY";
+"M_MYSELF" = "CÁ NHÂN";
+"iToast_PopupVC_Input_all" = "Nhập đầy đủ thông tin";
